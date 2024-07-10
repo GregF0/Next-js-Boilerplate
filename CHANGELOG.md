@@ -1,3 +1,46 @@
+# [3.53.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.52.0...v3.53.0) (2024-06-26)
+
+
+### Features
+
+* add updateAt and createdAt attribute in guestbook ([80d369a](https://github.com/ixartz/Next-js-Boilerplate/commit/80d369a9d374cb5557356d9ea794719e3a1f59d5))
+* create a new environement file for production ([988a051](https://github.com/ixartz/Next-js-Boilerplate/commit/988a051515666e7698a42f066198e7eb8dd44f32))
+* switch to Postgres in Drizzle ORM ([1d725e8](https://github.com/ixartz/Next-js-Boilerplate/commit/1d725e8d280e1848e792aba7c8102371b3c038a8))
+
+# [3.52.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.51.0...v3.52.0) (2024-05-31)
+
+
+### Features
+
+* update Drizzle configuration for Drizzle Kit 0.22 and improve ([5159455](https://github.com/ixartz/Next-js-Boilerplate/commit/5159455ab2cfb569702b33a7e2135ec23f32d598))
+
+# [3.51.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.50.1...v3.51.0) (2024-05-29)
+
+
+### Features
+
+* update to Drizzle kit 0.21 version, no need to have dialect in command line ([62aa678](https://github.com/ixartz/Next-js-Boilerplate/commit/62aa6786117637e6b76c97f6c98f7ca6e8c343b0))
+
+## [3.50.1](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.50.0...v3.50.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* add eslint support for .mts file ([cd58d38](https://github.com/ixartz/Next-js-Boilerplate/commit/cd58d3806206e269d712e0976f4101af26275e44))
+
+# [3.50.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.49.0...v3.50.0) (2024-05-18)
+
+
+### Features
+
+* replace Jest by Vitest for better DX ([2504504](https://github.com/ixartz/Next-js-Boilerplate/commit/25045041bb0af1fc4065ccffdb4d4d9b715c5823))
+* update to Storybook v8 ([51b20a6](https://github.com/ixartz/Next-js-Boilerplate/commit/51b20a64f8f7a9780cb4c81b6ec2f0d1ac8779c5))
+
+
+### Reverts
+
+* reuse vitest.config.mts to avoid warning when running the tests ([f923242](https://github.com/ixartz/Next-js-Boilerplate/commit/f9232425d3cca895bcf3b45355dbee2caaedccce))
+
 # [3.49.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.48.0...v3.49.0) (2024-05-17)
 
 

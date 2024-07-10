@@ -10,21 +10,8 @@ const Sponsors = () => (
             target="_blank"
           >
             <Image
-              src="/assets/images/clerk.png"
+              src="/assets/images/clerk-logo-dark.png"
               alt="Clerk – Authentication & User Management for Next.js"
-              width={260}
-              height={224}
-            />
-          </a>
-        </td>
-        <td className="border-2 border-gray-300 p-3">
-          <a
-            href="https://turso.tech/?utm_source=nextjsstarterbp"
-            target="_blank"
-          >
-            <Image
-              src="/assets/images/turso-dark.png"
-              alt="SQLite Developer Experience"
               width={260}
               height={224}
             />
@@ -40,8 +27,6 @@ const Sponsors = () => (
             />
           </a>
         </td>
-      </tr>
-      <tr className="h-56">
         <td className="border-2 border-gray-300 p-3">
           <a
             href="https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo"
@@ -55,6 +40,8 @@ const Sponsors = () => (
             />
           </a>
         </td>
+      </tr>
+      <tr className="h-56">
         <td className="border-2 border-gray-300 p-3">
           <a
             href="https://posthog.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
@@ -81,21 +68,6 @@ const Sponsors = () => (
             />
           </a>
         </td>
-      </tr>
-      <tr className="h-56">
-        <td className="border-2 border-gray-300 p-3">
-          <a
-            href="https://upstash.com/?utm_source=nextjs-boilerplate"
-            target="_blank"
-          >
-            <Image
-              src="/assets/images/redis.png"
-              alt="Upstash"
-              width={260}
-              height={224}
-            />
-          </a>
-        </td>
         <td className="border-2 border-gray-300 p-3">
           <a
             href="https://www.checklyhq.com/?utm_source=github&utm_medium=sponsorship&utm_campaign=next-js-boilerplate"
@@ -109,6 +81,8 @@ const Sponsors = () => (
             />
           </a>
         </td>
+      </tr>
+      <tr className="h-56">
         <td className="border-2 border-gray-300 p-3">
           <a href="https://nextlessjs.com">
             <Image

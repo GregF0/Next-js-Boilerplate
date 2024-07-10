@@ -1,12 +1,12 @@
 {
-  "version": "5",
-  "dialect": "sqlite",
+  "version": "7",
+  "dialect": "postgresql",
   "entries": [
     {
       "idx": 0,
-      "version": "5",
-      "when": 1693571350622,
-      "tag": "0000_blushing_warhawk",
+      "version": "7",
+      "when": 1719279419936,
+      "tag": "0000_init_db",
       "breakpoints": true
     }
   ]
