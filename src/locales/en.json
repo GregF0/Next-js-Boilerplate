@@ -1,19 +1,19 @@
 {
   "RootLayout": {
     "home_link": "Home",
-    "about_link": "About",
-    "guestbook_link": "Guestbook",
-    "portfolio_link": "Portfolio",
-    "sign_in_link": "Sign in",
-    "sign_up_link": "Sign up"
+    //"about_link": "About",
+    //"guestbook_link": "Guestbook",
+    //"portfolio_link": "Portfolio",
+    //"sign_in_link": "Sign in",
+    //"sign_up_link": "Sign up"
   },
   "BaseTemplate": {
-    "description": "Starter code for your Nextjs Boilerplate with Tailwind CSS",
+    "description": "Share your workout files easily",
     "made_with": "Made with"
   },
   "Index": {
-    "meta_title": "Next.js Boilerplate Presentation",
-    "meta_description": "Next js Boilerplate is the perfect starter code for your project. Build your React application with the Next.js framework."
+    "meta_title": "Fit Files",
+    "meta_description": "Share your workout files easily"
   },
   "Guestbook": {
     "meta_title": "Guestbook",
