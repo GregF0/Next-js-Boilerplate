@@ -16,7 +16,6 @@ export async function generateMetadata(props: { params: { locale: string } }) {
 
 export default function Index() {
   return (
-    <>
       <p>
         Coming Soon !! 
       </p>
